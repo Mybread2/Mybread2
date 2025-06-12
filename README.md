@@ -2,8 +2,13 @@
 백엔드 개발자를 꿈꾸는 Mybread2 입니다!
 
 🌱 공부중: Spring Boot, PostgreSQL, Docker, Kafka
+
 💬 관심분야: 마이크로서비스 아키텍처, 이벤트 기반 시스템, 인증/보안 시스템
+
 📫 연락처: ckwnsgh4@naver.com
+
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
 
 ## 🛠️ Tech Stack
 
